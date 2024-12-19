@@ -1,0 +1,10 @@
+==== PAYROLL FRAUD SUMMARY REPORT ====
+Total Records: 31654
+Total Fraudulent Records: 2404
+Total Valid Records: 29250
+--- Fraud Counts by Scenario ---
+Ghost Employees: 589
+Duplicate Records: 637
+Excessive Salary Payments: 624
+Invalid Account Numbers: 591
+Double Salary Payments: 600
